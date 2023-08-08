@@ -1,0 +1,52 @@
+/* Thumbnails */
+.thumb-box {
+  padding: 1.4em 0 1em;
+  margin-left: -1%;
+  width: 102%;
+}
+.thumbs li {
+float: left;
+width: 25%;
+text-align: center;
+padding: 0 1%;
+}
+.thumbs img {
+width: 100%;
+opacity: .8;
+border-bottom: 4px solid transparent;
+}
+.thumbs img.active {
+border-bottom: 1px dashed blue;
+opacity: 1;
+}
+.thumbs img:hover {
+opacity: 1;
+}
+
+/* Thumbnail2 */
+.thumb-box2 {
+  padding: 1.4em 0 1em;
+  margin-left: -1%;
+  width: 102%;
+}
+.thumb li {
+float: left;
+width: 25%;
+text-align: center;
+padding: 0 1%;
+}
+.thumb img {
+width: 100%;
+opacity: .8;
+border-bottom: 4px solid transparent;
+}
+.thumb img.active {
+border-bottom: 1px dashed blue;
+opacity: 1;
+}
+.thumb img:hover {
+opacity: 1;
+}
+
+
+
